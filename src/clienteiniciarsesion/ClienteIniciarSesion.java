@@ -16,6 +16,7 @@ public class ClienteIniciarSesion {
     */
    public static void main(String[] args) {
       // TODO code application logic here
+      new IniciarSesion().setVisible(true);
    }
    
 }
